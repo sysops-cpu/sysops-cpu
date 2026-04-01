@@ -1,7 +1,4 @@
-## Hi there 👋
-
-
-**sysop# Hi, I'm Haris Papadopoulos 👋
+ Hi there, I'm Haris 👋
 
 **AI Engineer in transition | Applied LLMs | FastAPI | Python | Mobile + Backend Product Builder**
 
