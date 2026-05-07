@@ -1,105 +1,57 @@
- Hi there, I'm Haris 👋
+# Hi, I'm Haris 👋
 
-**AI Engineer in transition | Applied LLMs | FastAPI | Python | Mobile + Backend Product Builder**
+**Solutions Engineer @ Keysight | Senior Technical PM candidate, AI Infrastructure | Founder · 4-app portfolio in 177 countries**
 
-I build practical AI systems that turn messy human input into useful structured outputs.
+By day I work in Keysight's Global Sales Organization on flagship digital and optical validation platforms — the test systems Tier-1 hyperscalers and semiconductor leaders use to qualify PCIe Gen6, USB4, 800G/1.6T optical, and silicon photonics deployments.
 
-My background combines:
-- backend and mobile product development
-- engineering work in telecom, validation, and high-tech systems
-- a strong focus on shipping usable software, not just training models
+Outside of that, I build. I've shipped consumer mobile products to 100,000+ users in 177 countries (solo, no team, still live), and this GitHub is where I keep my hands in the AI builder layer — because PMs who can actually ship working systems make better product decisions than PMs who can't.
 
-Right now, I’m focused on becoming a high-value **AI Engineer** by building real projects in:
-- **LLM applications**
-- **AI workflow automation**
-- **RAG systems**
-- **FastAPI backends**
-- **mobile AI products**
-- **MLOps foundations**
+## Why this GitHub exists
+
+I believe the next wave of senior technical PMs in AI infrastructure will need three things most candidates don't have:
+
+1. Real customer-facing scope at the physical AI stack (silicon, high-speed I/O, optical)
+2. Founder discipline — having owned a product end to end, with willingness-to-pay validation
+3. Hands-on AI builder fluency — not just "I use ChatGPT," but actually shipping LLM apps, RAG systems, and structured AI workflows
+
+This GitHub is leg three.
 
 ## Featured Projects
 
-### [Voice-to-Action](https://github.com/sysops-cpu/voice-to-action)
-An AI productivity assistant that converts raw text or recorded voice into structured professional outputs such as:
-- email drafts
-- meeting summaries
-- action checklists
-- follow-up messages
+### 🎙️ Voice-to-Action
+AI productivity assistant that converts raw text or voice into structured professional outputs — email drafts, meeting summaries, action checklists, follow-ups. Demonstrates: applied LLM design, structured outputs, real product UX.
 
-**Stack:** FastAPI, Python, Flutter, SQLAlchemy, SQLite/Postgres
+*Stack: FastAPI, Python, Flutter, SQLAlchemy, SQLite/Postgres*
 
----
+### 🔁 LLM Workflow API
+Backend for structured prompt pipelines, generation flows, history tracking, and reusable AI templates. Demonstrates: API design, typed models, workflow orchestration, usage controls — the unsexy infrastructure that makes LLM products production-ready.
 
-### [LLM Workflow API](https://github.com/sysops-cpu/llm-workflow-api)
-A backend for structured prompt pipelines, generation flows, history tracking, and reusable AI templates.
+### 📚 RAG Knowledge Assistant
+Retrieval-augmented generation system for querying document collections with grounded answers and evaluation. Demonstrates: chunking strategy, embedding selection, retrieval quality, answer evaluation — the actual hard parts of RAG.
 
-**Focus:** API design, typed models, workflow orchestration, usage controls
+### 🧪 Applied ML Lab
+Focused ML experiments built with engineering discipline — data preparation, training pipelines, evaluation metrics, reproducible experiments.
 
----
+### 🚀 MLOps Starter
+Minimal but serious template for training, tracking, packaging, and deploying ML systems. Demonstrates: Docker, experiment tracking, CI/CD basics — the production-readiness layer.
 
-### [RAG Knowledge Assistant](https://github.com/sysops-cpu/rag-knowledge-assistant)
-A retrieval-augmented generation project for querying document collections with grounded answers and evaluation.
-
-**Focus:** chunking, embeddings, retrieval, answer quality, evaluation
-
----
-
-### [Applied ML Lab](https://github.com/sysops-cpu/applied-ml-lab)
-A collection of focused machine learning experiments built with engineering discipline:
-- data preparation
-- training pipelines
-- evaluation metrics
-- reproducible experiments
-
----
-
-### [MLOps Starter](https://github.com/sysops-cpu/mlops-starter)
-A minimal but serious template for training, tracking, packaging, and deploying ML systems.
-
-**Focus:** Docker, experiment tracking, reproducibility, CI/CD basics
-
----
-
-### [AI Mobile Client](https://github.com/sysops-cpu/ai-mobile-client)
-A mobile client for interacting with AI-powered workflows and backend services.
-
-**Focus:** product UX, API integration, real-world client behavior
+### 📱 AI Mobile Client
+Mobile client for AI-powered workflows. Demonstrates: product UX thinking, API integration, real-world client behavior.
 
 ## Tech Stack
 
-**Languages & Core:**  
-Python, SQL, Dart, Kotlin, Java
+**Languages:** Python, SQL, Dart, Kotlin, Java
+**AI / Data:** PyTorch, scikit-learn, Pandas, NumPy, LLM APIs, embeddings, RAG
+**Backend:** FastAPI, SQLAlchemy, REST APIs, SQLite, PostgreSQL
+**Mobile:** Flutter, Android
+**Engineering:** Git, GitHub Actions, Docker, testing, typed code, modular architecture
 
-**AI / Data:**  
-PyTorch, scikit-learn, Pandas, NumPy, LLM APIs, embeddings, RAG patterns
+## What I'm targeting
 
-**Backend:**  
-FastAPI, SQLAlchemy, REST APIs, SQLite, PostgreSQL
-
-**Frontend / Mobile:**  
-Flutter, Android
-
-**Engineering / DevOps:**  
-Git, GitHub Actions, Docker, testing, typed code, modular architecture
-
-## What I’m Optimizing For
-
-I’m building this GitHub to demonstrate that I can:
-- design and ship AI-backed products
-- write clean and understandable code
-- work across backend, AI logic, and product-facing interfaces
-- deliver projects with real use cases, not tutorial clones
-
-## Current Goal
-
-Land an **AI Engineer** role by building a small number of high-quality public projects that show:
-- real product thinking
-- strong implementation
-- good engineering hygiene
-- credible AI application skills
+Senior Technical PM roles in AI infrastructure, data center, hyperscale networking, and silicon photonics — primary focus UAE, KSA, and Gulf. Open to EU and remote.
 
 ## Connect
 
 - LinkedIn: https://www.linkedin.com/in/haris-papadopoulos/
-- Email: hrs@gmail.com
-
+- Email: hrspapadopoulos@gmail.com
+- Mobile portfolio: https://play.google.com/store/apps/developer?id=Black+Coffee+Programming
